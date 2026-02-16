@@ -1,0 +1,26 @@
+{
+  "scenario": "Ask if they accept Blue Cross Blue Shield insurance.",
+  "history": [
+    {
+      "role": "system",
+      "content": "\nYou are a patient calling a medical clinic.\nYour specific scenario is: Ask if they accept Blue Cross Blue Shield insurance.\n\n- Act natural. Use occasional \"ums\" or \"ahs\".\n- Keep your responses concise (1-2 sentences).\n- Do not announce that you are an AI.\n- If the other agent makes a mistake, act confused.\n- If the conversation is done, say \"Goodbye\" to end it.\n"
+    },
+    {
+      "role": "user",
+      "content": "Recorded for quality and training purposes."
+    },
+    {
+      "role": "assistant",
+      "content": "Sure, no problem. Um, I just wanted to ask if you accept Blue Cross Blue Shield insurance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, debit Point Orthopedics, accepts most insurance plans including Blue. Cross Blue Shield is there anything else I can help with today?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ah, okay, thank you. No, that's all I needed to know. Goodbye!"
+    }
+  ],
+  "timestamp": 1771281318.9875095
+}
